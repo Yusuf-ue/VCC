@@ -1,0 +1,871 @@
+*** MODEL
+%lbl%+591 -> true
+%lbl%+35001 -> true
+$position_marker -> true
+%lbl%@35318 -> false
+unique-value!81 -> *2
+^^null_type -> *3
+$max.i8 -> 9223372036854775807
+cev_global -> *5
+$fk_owns -> *6
+$fk_emb_array -> *7
+^$#_onexit_t#4 -> *8
+P#w -> *9
+unique-value!79 -> *10
+$untyped_owner_owner -> *11
+$max.u4 -> 4294967295
+call499formal@P#x@0 -> *13
+call499formal@P#y@0 -> *13
+$fk_ref_cnt -> *14
+^^field -> *15
+$max.u2 -> 65535
+loop_entered -> *17
+unique-value!59 -> *18
+$ctype_flat -> *19
+$fk_as_array_first -> *20
+$s@0 -> *21
+unique-value!56 -> *22
+unique-value!67 -> *23
+^$#state_t -> *24
+^$#struct -> *25
+^$#seq_version -> *26
+^^u4 -> *27
+^^nat -> *28
+^$#volatile_version_t -> *29
+$ctype_blob -> *30
+$max.i2 -> 32767
+unique-value!72 -> *32
+unique-value!75 -> *33
+unique-value!90 -> *34
+^^u2 -> *35
+$min.i8 -> -9223372036854775808
+unique-value!85 -> *37
+P#v -> *38
+^^f4 -> *39
+^$#_CoreCrtSecureSearchSortCompareFunction#1 -> *40
+^^claim -> *41
+$max.i4 -> 2147483647
+$decreases_level -> 2147483647
+$me -> *43
+^^bool -> *44
+$max.i1 -> 127
+cev_parameter -> *46
+unique-value!55 -> *47
+$untyped_owner -> *48
+unique-value!63 -> *49
+unique-value!74 -> *50
+^$#ptrset -> *51
+^$##club -> *52
+^^mathint -> *53
+unique-value!66 -> *54
+^$#swap.c..46644#5 -> *55
+unique-value!60 -> *56
+$arch_ptr_size -> 8
+$struct_zero -> *58
+unique-value!80 -> *59
+unique-value!88 -> *60
+unique-value!84 -> *61
+^$#_invalid_parameter_handler#7 -> *62
+$min.i1 -> -128
+unique-value!61 -> *64
+conditional_moment -> *65
+unique-value!65 -> *66
+^^f8 -> *67
+unique-value!87 -> *68
+unique-value!89 -> *69
+$fk_base -> *70
+^^u8 -> *71
+$arch_ptr_type -> *71
+$set_empty -> *72
+lambda@13 -> *72
+$ctype_ptr -> *73
+unique-value!82 -> *74
+$fk_vol_version -> *75
+$s -> *76
+$max.u1 -> 255
+^^i1 -> *78
+^^object -> *79
+$max.u8 -> 18446744073709551615
+$arch_spec_ptr_start -> 18446744073709551615
+$ctype_spec_ptr -> *81
+unique-value!58 -> *82
+^^void -> *83
+unique-value!62 -> *84
+unique-value!70 -> *85
+^$#swap.c..46540#3 -> *86
+$fk_active_option -> *87
+$ctype_array -> *88
+unique-value!77 -> *89
+cev_local -> *90
+#tok$1^11.4 -> *91
+@MV_state_const -> 74
+$ctype_map -> *93
+loop_register -> *94
+$null -> *95
+^^i4 -> *96
+$fk_allocation_root -> *97
+unique-value!68 -> *98
+unique-value!57 -> *99
+loop_exited -> *100
+$min.i2 -> -32768
+cev_implicit -> *102
+#tok$1^6.1 -> *103
+^^u1 -> *104
+#file^c?3A?5CUsers?5CYusuf?5COneDrive?5CDesktop?5CSommersemester?202022?5CC?20Verification?20module?20?5BVCC?5D?5CCourse?20Material?5CSimpleExamplesExcercise?5Cswap.c -> *105
+$primitive_emb_type -> *106
+unique-value!71 -> *107
+$no_claim -> *108
+lambda@20 -> *109
+took_else_branch -> *110
+^^i8 -> *111
+took_then_branch -> *112
+unique-value!76 -> *113
+unique-value!83 -> *114
+#wrTime$1^13.1 -> 8482
+#tok$1^18.3 -> *116
+^$##thread_id -> *117
+$min.i4 -> -2147483648
+unique-value!64 -> *119
+unique-value!69 -> *120
+$untyped_owner_type -> *121
+^^i2 -> *122
+^$#thread_id_t -> *123
+lambda@19 -> *124
+unique-value!73 -> *125
+#tok$1^13.1 -> *126
+^$#vol_version -> *127
+unique-value!86 -> *128
+^$#_purecall_handler#6 -> *129
+unique-value!78 -> *130
+^$#_CoreCrtNonSecureSearchSortCompareFunction#2 -> *131
+$cev_pc -> **$cev_pc
+#stackframe -> **#stackframe
+$cev_pc@0 -> **$cev_pc@0
+$field_offset -> {
+  *132 -> -18446744073709557022
+  *134 -> 0
+  *136 -> 0
+  *137 -> 0
+  *138 -> -18446744073709557815
+  *140 -> -18446744073709556271
+  *142 -> -18446744073709558722
+  *144 -> 0
+  else -> 0
+}
+$addr0 -> {
+  *95 -> 0
+  *108 -> 0
+  *43 -> 824
+  *48 -> 4052
+  *11 -> 361
+  *13 -> 875
+  *38 -> 6782
+  *9 -> 8887
+  *151 -> 455
+  else -> 0
+}
+$is_proper -> {
+  *43 -> true
+  *48 -> true
+  *11 -> true
+  *13 -> true
+  *151 -> true
+  else -> true
+}
+$field_arr_root -> {
+  *137 -> *137
+  *134 -> *134
+  *136 -> *136
+  *153 -> *153
+  *154 -> *154
+  *155 -> *155
+  *156 -> *156
+  *144 -> *144
+  else -> *137
+}
+$heap -> {
+  *21 -> *157
+  *76 -> *158
+  else -> *157
+}
+$in_range_phys_ptr -> {
+  *13 -> true
+  else -> true
+}
+$is_volatile_field -> {
+  *155 -> true
+  *156 -> true
+  else -> true
+}
+@MV_state -> {
+  74 0 -> true
+  74 1 -> true
+  74 2 -> true
+  74 3 -> true
+  74 4 -> true
+  else -> true
+}
+$is_phys_field -> {
+  *140 -> true
+  else -> true
+}
+Select_[$ptr]$bool -> {
+  *163 *151 -> false
+  *124 *13 -> true
+  *109 *13 -> true
+  else -> true
+}
+$function_entry -> {
+  *76 -> true
+  else -> true
+}
+Select_[$ptr]$ptr -> {
+  *164 *151 -> *151
+  *165 *151 -> *43
+  else -> *151
+}
+$f_owner -> {
+  *76 -> *165
+  else -> *165
+}
+$trans_call_transition -> {
+  *76 *21 -> true
+  else -> true
+}
+$unchecked -> {
+  *27 4294967296 -> 0
+  *71 18446744073709551616 -> 0
+  *27 -1 -> 4294967295
+  *71 -1 -> 18446744073709551615
+  *71 0 -> 0
+  *71 -4232 -> 0
+  *71 824 -> 824
+  *71 4052 -> 4052
+  *71 361 -> 361
+  *71 -2744 -> 6782
+  *71 -592 -> 875
+  *71 -5794 -> 8887
+  *71 18446744073709555679 -> 455
+  else -> 0
+}
+$set_cardinality -> {
+  *72 -> 0
+  else -> 0
+}
+$is_primitive -> {
+  *78 -> true
+  *122 -> true
+  *96 -> true
+  *111 -> true
+  *104 -> true
+  *35 -> true
+  *27 -> true
+  *71 -> true
+  *39 -> true
+  *67 -> true
+  *44 -> true
+  *83 -> true
+  *79 -> true
+  *15 -> true
+  *3 -> true
+  *41 -> false
+  *29 -> false
+  *53 -> true
+  *28 -> true
+  *51 -> true
+  *24 -> true
+  *25 -> true
+  *123 -> false
+  *121 -> false
+  *117 -> true
+  *52 -> true
+  *40 -> true
+  *131 -> true
+  *86 -> true
+  *8 -> true
+  *55 -> true
+  *129 -> true
+  *62 -> true
+  *106 -> false
+  *174 -> false
+  else -> true
+}
+$as_primitive_field -> {
+  *137 -> *137
+  *153 -> *153
+  *154 -> *154
+  *155 -> *155
+  *156 -> *156
+  else -> *137
+}
+$set_in_pos -> {
+  *13 *124 -> true
+  *13 *109 -> true
+  else -> true
+}
+$dot -> {
+  *151 *140 -> *13
+  else -> *13
+}
+$is_math_type -> {
+  *79 -> true
+  *15 -> true
+  *3 -> true
+  *53 -> true
+  *28 -> true
+  *51 -> true
+  *24 -> true
+  *25 -> true
+  *117 -> true
+  *52 -> true
+  else -> true
+}
+$unchk_add -> {
+  *71 0 0 -> 0
+  *71 18446744073709552790 -18446744073709557022 -> 0
+  *71 824 0 -> 824
+  *71 4052 0 -> 4052
+  *71 361 0 -> 361
+  *71 18446744073709555071 -18446744073709557815 -> 6782
+  *71 18446744073709555679 -18446744073709556271 -> 875
+  *71 18446744073709552928 -18446744073709558722 -> 8887
+  *71 18446744073709555679 0 -> 455
+  else -> 0
+}
+$good_state -> {
+  *178 -> true
+  *76 -> true
+  *21 -> true
+  else -> true
+}
+$writes_at -> {
+  8482 -> *124
+  else -> *124
+}
+Select_[$field][$ptr]$int -> {
+  *157 *140 -> *179
+  *158 *140 -> *180
+  else -> *179
+}
+$is_claimable -> {
+  *41 -> true
+  *29 -> false
+  *123 -> false
+  *121 -> false
+  *78 -> false
+  *122 -> false
+  *96 -> false
+  *111 -> false
+  *104 -> false
+  *35 -> false
+  *27 -> false
+  *71 -> false
+  *39 -> false
+  *67 -> false
+  *44 -> false
+  *83 -> false
+  *79 -> false
+  *15 -> false
+  *3 -> false
+  *53 -> false
+  *28 -> false
+  *51 -> false
+  *24 -> false
+  *25 -> false
+  *117 -> false
+  *52 -> false
+  *40 -> false
+  *131 -> false
+  *86 -> false
+  *8 -> false
+  *55 -> false
+  *129 -> false
+  *62 -> false
+  else -> false
+}
+$is_sequential_field -> {
+  *153 -> true
+  *154 -> true
+  *137 -> true
+  *155 -> false
+  else -> true
+}
+$_pow2 -> {
+  0 -> 1
+  1 -> 2
+  2 -> 4
+  3 -> 8
+  4 -> 16
+  5 -> 32
+  6 -> 64
+  7 -> 128
+  8 -> 256
+  9 -> 512
+  10 -> 1024
+  11 -> 2048
+  12 -> 4096
+  13 -> 8192
+  14 -> 16384
+  15 -> 32768
+  16 -> 65536
+  17 -> 131072
+  18 -> 262144
+  19 -> 524288
+  20 -> 1048576
+  21 -> 2097152
+  22 -> 4194304
+  23 -> 8388608
+  24 -> 16777216
+  25 -> 33554432
+  26 -> 67108864
+  27 -> 134217728
+  28 -> 268435456
+  29 -> 536870912
+  30 -> 1073741824
+  31 -> 2147483648
+  32 -> 4294967296
+  33 -> 8589934592
+  34 -> 17179869184
+  35 -> 34359738368
+  36 -> 68719476736
+  37 -> 137438953472
+  38 -> 274877906944
+  39 -> 549755813888
+  40 -> 1099511627776
+  41 -> 2199023255552
+  42 -> 4398046511104
+  43 -> 8796093022208
+  44 -> 17592186044416
+  45 -> 35184372088832
+  46 -> 70368744177664
+  47 -> 140737488355328
+  48 -> 281474976710656
+  49 -> 562949953421312
+  50 -> 1125899906842624
+  51 -> 2251799813685248
+  52 -> 4503599627370496
+  53 -> 9007199254740992
+  54 -> 18014398509481984
+  55 -> 36028797018963968
+  56 -> 72057594037927936
+  57 -> 144115188075855872
+  58 -> 288230376151711744
+  59 -> 576460752303423488
+  60 -> 1152921504606846976
+  61 -> 2305843009213693952
+  62 -> 4611686018427387904
+  63 -> 9223372036854775808
+  64 -> 18446744073709551616
+  else -> 1
+}
+tickleBool -> {
+  true -> true
+  false -> true
+  else -> true
+}
+$in_writes_at -> {
+  8482 *13 -> true
+  else -> true
+}
+$phys_ptr_cast -> {
+  *38 *96 -> *13
+  *9 *96 -> *13
+  *13 *96 -> *13
+  else -> *13
+}
+$prim_emb -> {
+  *13 -> *151
+  else -> *151
+}
+$owner -> {
+  *76 *151 -> *43
+  else -> *43
+}
+$vs_state -> {
+  *58 -> *178
+  else -> *178
+}
+$is_proper_field -> {
+  *134 -> true
+  *136 -> true
+  *137 -> true
+  *153 -> true
+  *154 -> true
+  *155 -> true
+  *156 -> true
+  *140 -> true
+  *144 -> true
+  else -> true
+}
+distinct-aux-f!!54 -> {
+  *106 -> *47
+  *78 -> *22
+  *122 -> *99
+  *96 -> *82
+  *111 -> *18
+  *104 -> *56
+  *35 -> *64
+  *27 -> *84
+  *71 -> *49
+  *83 -> *119
+  *44 -> *66
+  *39 -> *54
+  *67 -> *23
+  *79 -> *98
+  *15 -> *120
+  *3 -> *85
+  *41 -> *107
+  *53 -> *32
+  *28 -> *125
+  *51 -> *50
+  *24 -> *33
+  *29 -> *113
+  *25 -> *89
+  *26 -> *130
+  *127 -> *10
+  *123 -> *59
+  *121 -> *2
+  *117 -> *74
+  *52 -> *114
+  *40 -> *61
+  *131 -> *37
+  *86 -> *128
+  *8 -> *68
+  *55 -> *60
+  *129 -> *69
+  *62 -> *34
+  else -> *47
+}
+$instantiate_int -> {
+  452 -> true
+  else -> true
+}
+$field -> {
+  *43 -> *134
+  *48 -> *136
+  *11 -> *134
+  *108 -> *132
+  *95 -> *137
+  *13 -> *140
+  *38 -> *138
+  *9 -> *142
+  *151 -> *144
+  else -> *134
+}
+$current_timestamp -> {
+  *76 -> 8482
+  *21 -> 8482
+  else -> 8482
+}
+$f_timestamp -> {
+  *76 -> *297
+  else -> *297
+}
+$file_name_is -> {
+  1 *105 -> true
+  else -> true
+}
+$field_kind -> {
+  *137 -> *97
+  *134 -> *97
+  *136 -> *97
+  *153 -> *6
+  *154 -> *6
+  *155 -> *6
+  *156 -> *6
+  *144 -> *97
+  else -> *6
+}
+$as_composite_field -> {
+  *134 -> *134
+  *136 -> *136
+  *144 -> *144
+  else -> *134
+}
+$closed -> {
+  *76 *151 -> false
+  else -> false
+}
+$f_owns -> {
+  *41 -> *153
+  *29 -> *154
+  *123 -> *155
+  *121 -> *156
+  else -> *153
+}
+$ptr -> {
+  *137 0 -> *95
+  *132 18446744073709552790 -> *108
+  *134 824 -> *43
+  *136 4052 -> *48
+  *134 361 -> *11
+  *140 18446744073709555679 -> *13
+  *138 18446744073709555071 -> *38
+  *142 18446744073709552928 -> *9
+  *144 18446744073709555679 -> *151
+  else -> *95
+}
+$good_state_ext -> {
+  *126 *76 -> true
+  *116 *21 -> true
+  else -> true
+}
+$type_branch -> {
+  *78 -> *19
+  *122 -> *19
+  *96 -> *19
+  *111 -> *19
+  *104 -> *19
+  *35 -> *19
+  *27 -> *19
+  *71 -> *19
+  *39 -> *19
+  *67 -> *19
+  *44 -> *19
+  *83 -> *19
+  *79 -> *19
+  *15 -> *19
+  *3 -> *19
+  *41 -> *19
+  *29 -> *19
+  *53 -> *19
+  *28 -> *19
+  *51 -> *19
+  *24 -> *19
+  *25 -> *19
+  *123 -> *19
+  *121 -> *19
+  *117 -> *19
+  *52 -> *19
+  *40 -> *19
+  *131 -> *19
+  *86 -> *19
+  *8 -> *19
+  *55 -> *19
+  *129 -> *19
+  *62 -> *19
+  else -> *19
+}
+$maybe_emb -> {
+  *13 -> *151
+  *151 -> *151
+  else -> *151
+}
+$in_range_t -> {
+  *27 4294967296 -> false
+  *27 0 -> true
+  *71 18446744073709551616 -> false
+  *71 0 -> true
+  *27 -1 -> false
+  *27 4294967295 -> true
+  *71 -1 -> false
+  *71 18446744073709551615 -> true
+  *71 -4232 -> false
+  *71 824 -> true
+  *71 4052 -> true
+  *71 361 -> true
+  *71 -2744 -> false
+  *71 6782 -> true
+  *71 -592 -> false
+  *71 875 -> true
+  *71 -5794 -> false
+  *71 8887 -> true
+  *71 18446744073709555679 -> false
+  *71 455 -> true
+  *96 458 -> true
+  *96 452 -> true
+  else -> true
+}
+$spec_ptr_cast -> {
+  *43 *123 -> *43
+  *48 *121 -> *48
+  *11 *123 -> *11
+  else -> *43
+}
+$invok_state -> {
+  *76 -> true
+  *21 -> true
+  else -> true
+}
+$sizeof -> {
+  *78 -> 1
+  *122 -> 2
+  *96 -> 4
+  *111 -> 8
+  *104 -> 1
+  *35 -> 2
+  *27 -> 4
+  *71 -> 8
+  *39 -> 4
+  *67 -> 8
+  *44 -> 1
+  *83 -> 1
+  *79 -> 1
+  *15 -> 1
+  *3 -> 1
+  *41 -> 1
+  *29 -> 1
+  *53 -> 1
+  *28 -> 1
+  *51 -> 1
+  *24 -> 1
+  *25 -> 1
+  *123 -> 1
+  *121 -> 1
+  *117 -> 1
+  *52 -> 1
+  *40 -> 8
+  *131 -> 8
+  *86 -> 8
+  *8 -> 8
+  *55 -> 8
+  *129 -> 8
+  *62 -> 8
+  else -> 1
+}
+$field_type -> {
+  *132 -> *41
+  *134 -> *123
+  *136 -> *121
+  *137 -> *83
+  *153 -> *51
+  *154 -> *51
+  *155 -> *51
+  *156 -> *51
+  *140 -> *96
+  *144 -> *174
+  else -> *51
+}
+$in_range_spec_ptr -> {
+  *43 -> true
+  *48 -> true
+  *11 -> true
+  *151 -> false
+  else -> true
+}
+$is_fnptr_type -> {
+  *40 -> true
+  *131 -> true
+  *86 -> true
+  *8 -> true
+  *55 -> true
+  *129 -> true
+  *62 -> true
+  else -> true
+}
+$f_root -> {
+  *83 -> *137
+  *123 -> *134
+  *121 -> *136
+  *174 -> *144
+  else -> *137
+}
+$full_stop -> {
+  *76 -> true
+  *21 -> true
+  else -> true
+}
+Select_[$ptr]$int -> {
+  *179 *151 -> 458
+  *180 *151 -> 452
+  *297 *151 -> -564
+  else -> 458
+}
+$mutable -> {
+  *76 *13 -> true
+  *76 *151 -> true
+  else -> true
+}
+$roots -> {
+  *76 -> *164
+  else -> *164
+}
+$call_transition -> {
+  *76 *21 -> true
+  else -> true
+}
+$f_closed -> {
+  *76 -> *163
+  else -> *163
+}
+$field_parent_type -> {
+  *134 -> *123
+  *136 -> *121
+  *137 -> *106
+  *153 -> *41
+  *154 -> *29
+  *155 -> *123
+  *156 -> *121
+  *140 -> *174
+  *144 -> *174
+  else -> *123
+}
+$as_field_with_type -> {
+  *137 *83 -> *137
+  *134 *123 -> *134
+  *136 *121 -> *136
+  *153 *51 -> *153
+  *154 *51 -> *154
+  *155 *51 -> *155
+  *156 *51 -> *156
+  *140 *96 -> *140
+  *144 *174 -> *144
+  else -> *137
+}
+$is_ghost_field -> {
+  *153 -> true
+  *154 -> true
+  *155 -> true
+  *156 -> true
+  *140 -> false
+  else -> true
+}
+$modifies -> {
+  *76 *21 *109 -> true
+  else -> true
+}
+$as_in_range_t -> {
+  *78 -> *78
+  *122 -> *122
+  *96 -> *96
+  *111 -> *111
+  *104 -> *104
+  *35 -> *35
+  *27 -> *27
+  *71 -> *71
+  *28 -> *28
+  else -> *78
+}
+$base -> {
+  *95 -> 0
+  *43 -> 824
+  *48 -> 4052
+  *11 -> 361
+  *108 -> 18446744073709552790
+  *13 -> 18446744073709555679
+  *38 -> 18446744073709555071
+  *9 -> 18446744073709552928
+  *151 -> 18446744073709555679
+  else -> 18446744073709555679
+}
+*** STATE <initial>
+  $s -> *76
+  $cev_pc -> **$cev_pc
+  P#v -> *38
+  P#w -> *9
+  #wrTime$1^13.1 -> 8482
+  #stackframe -> **#stackframe
+*** END_STATE
+*** STATE c:\Users\Yusuf\OneDrive\Desktop\Sommersemester 2022\C Verification module [VCC]\Course Material\SimpleExamplesExcercise\swap.c(13,1) : function entry
+*** END_STATE
+*** STATE <no file>(0,0)
+*** END_STATE
+*** STATE c:\Users\Yusuf\OneDrive\Desktop\Sommersemester 2022\C Verification module [VCC]\Course Material\SimpleExamplesExcercise\swap.c(18,3)
+*** END_STATE
+*** STATE c:\Users\Yusuf\OneDrive\Desktop\Sommersemester 2022\C Verification module [VCC]\Course Material\SimpleExamplesExcercise\swap.c(18,3)
+*** END_STATE
+*** STATE c:\Users\Yusuf\OneDrive\Desktop\Sommersemester 2022\C Verification module [VCC]\Course Material\SimpleExamplesExcercise\swap.c(19,12)
+  $s -> *21
+  $cev_pc -> **$cev_pc@0
+*** END_STATE
+*** END_MODEL
